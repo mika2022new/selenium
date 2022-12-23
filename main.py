@@ -34,5 +34,3 @@ sleep(10)
 driver.save_screenshot('pet.jpg')
 driver.quit()
 
-
-45:45
